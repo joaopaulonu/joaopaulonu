@@ -13,6 +13,7 @@ A little about me...
 <div align="center"> <a href="https://github.com/joaopaulonu"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopaulonu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulonu&layout=compact&langs_count=16&theme=dracula"/> </a> </div>
 
 
+<br>
 Skills & Tools:
 
 <div style="display: inline_block"><br> 
@@ -44,7 +45,8 @@ Skills & Tools:
 <img align="center" alt="LTspice" height="30" width="40" src="https://img.shields.io/badge/LTspice-000000?style=for-the-badge&logo=ltspice&logoColor=white">
 </div>
 
-Areas of Study & Interest:
+
+  Areas of Study & Interest:
 
 Development: 3D Modeling, Android, Kotlin (Web & Mobile), Python, C/C++/C#, Java, JavaScript, HTML/CSS/React, SQL, Power BI, Go, PHP, Clojure.
 
