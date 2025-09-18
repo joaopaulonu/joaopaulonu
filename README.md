@@ -1,14 +1,11 @@
-👋 Hi there! I'm João Paulo Nunes Andrade
+<div align="center"> <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="400px" /> </div> 
 
-A little about me...
+### Olá! Sou João Paulo Nunes Andrade 👋
 
-👨‍💻 I’m currently a Computer Engineering student at Pontifical Catholic University of Campinas (PUC-Campinas).
+Sou um estudante de **Engenharia da Computação** na **PUC-Campinas**, movido pela missão de criar soluções inovadoras que geram impacto real. Minhas paixões vão da **programação e IA** ao design 3D e a cultura Maker, sempre buscando transformar ideias em projetos que melhorem processos e a vida das pessoas...
 
-🚀 I’m proactive and highly engaged, always striving to create innovative solutions that deliver positive impact and improve processes.
+------------
 
-💻 My passions include books, pets, programming, artificial intelligence, Maker culture, and 3D printing.
-
-🎓 I’m constantly seeking new knowledge and sharpening my skills to stay ahead in technology and innovation.
 
 <div align="center"> 
   <a href="https://github.com/joaopaulonu"> 
@@ -49,19 +46,20 @@ Skills & Tools:
 <img align="center" alt="LTspice" height="30" width="40" src="https://img.shields.io/badge/LTspice-000000?style=for-the-badge&logo=ltspice&logoColor=white">
 </div>
 
+-------------
+### 💼 Experiência Profissional
 
-<br>
-Areas of Study & Interest:
+Minha experiência me permitiu atuar em diversas áreas, aplicando conhecimento técnico para otimizar processos e projetos. 
+**Araújo Engenharia Integridade de Equipamentos Industriais**
+* **Projetista** (Setembro/2024 - Outubro/2024)
+* **Assistente de TI** (Fevereiro/2024 - Outubro/2024)
+* **Auxiliar Administrativo** (Fevereiro/2024 - Outubro/2024)
+* **Arquivista** (Abril/2024 - Junho/2024)
+* **Desenhista** (Fevereiro/2024 - Abril/2024)
 
-Development: 3D Modeling, Android, Kotlin (Web & Mobile), Python, C/C++/C#, Java, JavaScript, HTML/CSS/React, SQL, Power BI, Go, PHP, Clojure.
+----------
 
-Infrastructure/Operations: DevOps, Linux, Google Cloud.
-
-Emerging Technologies: Artificial Intelligence (AI), Blockchain, 5G, Quantum Computing, Cybersecurity.
-
-Other: Chief Technology Officer (CTO – as a career aspiration).
-
-🏆 Certifications & Achievements:
+⭐ Certifications & Achievements:
 
 🥇 Gold Medal – REDASP (2024)
 
@@ -75,6 +73,8 @@ Other: Chief Technology Officer (CTO – as a career aspiration).
 
 🥉 Bronze Medal – Portuguese Expo (2017)
 
+---------------------
+
 📬 Contact Me:
 
 <div align="center"> 
@@ -84,3 +84,5 @@ Other: Chief Technology Officer (CTO – as a career aspiration).
   <a href="https://api.whatsapp.com/send?phone=5519995837955" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.alura.com.br/indica-dev/jpnunesandrade26" target="_blank"><img src="https://img.shields.io/badge/Alura-0077B5?style=for-the-badge&logo=alura&logoColor=white"></a> 
 </div>
+
+
