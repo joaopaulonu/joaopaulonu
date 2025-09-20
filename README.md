@@ -50,7 +50,9 @@ Skills & Tools:
 ### 💼 Experiência Profissional
 
 Minha experiência me permitiu atuar em diversas áreas, aplicando conhecimento técnico para otimizar processos e projetos. 
-**Araújo Engenharia Integridade de Equipamentos Industriais**
+
+> Araújo Engenharia Integridade de Equipamentos Industriais
+
 * **Projetista** (Setembro/2024 - Outubro/2024)
 * **Assistente de TI** (Fevereiro/2024 - Outubro/2024)
 * **Auxiliar Administrativo** (Fevereiro/2024 - Outubro/2024)
