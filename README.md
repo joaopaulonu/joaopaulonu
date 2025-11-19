@@ -174,6 +174,18 @@ I am a **Computer Engineering** student at **PUC-Campinas**, driven by the missi
   </tr>
 </table>
 
+💾 **Low-Level & Algorithms**
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/joaopaulonu/Tic-Tac-Toe-Assembly-x86"> <img src="https://img.shields.io/badge/Assembly_x86-A81D33?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+        <br/> 🕹️ <strong>Tic-Tac-Toe (8086)</strong>
+      </a>
+      <br/>
+      <sub>Classic game developed in pure Assembly x86 (DOS) featuring a hybrid AI strategy and direct memory manipulation.</sub>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 💼 Professional Experience
