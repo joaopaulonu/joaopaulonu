@@ -13,7 +13,7 @@ I am a **Computer Engineering** student at **PUC-Campinas**, driven by the missi
 ### 🏆 Achievements & Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaopaulonu&theme=radical&no-frame=true&no-bg=false" />
+  <img src="https://github-profile-trophy.vercel.app/?username=joaopaulonu&theme=radical&no-frame=true&no-bg=false" />
   <br/>
   <br/>
 
@@ -21,13 +21,13 @@ I am a **Computer Engineering** student at **PUC-Campinas**, driven by the missi
         <img src="https://github-readme-stats.vercel.app/api?username=joaopaulonu&theme=nord&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="João Paulo Stats"/>
   </p>
 
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulonu&layout=compact&langs_count=16&theme=nord&custom_title=Top%20Languages"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulonu&layout=compact&langs_count=16&theme=nord&custom_title=Top%20Languages"/>
 </div>
 
 <br/>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaopaulonu&radius=16&theme=nord&area=true&order=5&hide_border=false&custom_title=Activity%20Graph" alt="João Paulo Nunes Andrade Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaopaulonu&radius=16&theme=nord&area=true&order=5&hide_border=false&custom_title=Activity%20Graph" alt="João Paulo Nunes Andrade Activity Graph">
 </p>
 
 ---
@@ -39,71 +39,102 @@ I am a **Computer Engineering** student at **PUC-Campinas**, driven by the missi
 <table style="background-color: #44475a; border-collapse: collapse; width: 100%; color: white;">
   <thead>
     <tr>
-      <th width="15%">💻 Core Languages</th>
-      <th width="15%">🎨 Web & Frameworks</th>
-      <th width="15%">🧠 AI, Data & Simulation</th>
-      <th width="15%">⚙️ Hardware & Maker</th>
-      <th width="15%">☁️ DevOps & Cloud</th>
-      <th width="15%">🗄️ Database & Others</th>
+      <th width="16%">💻 Core Languages</th>
+      <th width="16%">🎨 Web & Frameworks</th>
+      <th width="18%">🧠 AI, Data & Simulation</th>
+      <th width="16%">⚙️ Hardware & Maker</th>
+      <th width="16%">☁️ DevOps & Cloud</th>
+      <th width="18%">🗄️ Database & Others</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br>Python
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br>Java
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" /><br>C#
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /><br>C/C++
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" /><br>Go
+      <td align="center" valign="top">
+        <div style="padding: 10px 0;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />
+        </div>
+        <div style="padding: 10px 0;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java" />
+        </div>
+        <div style="padding: 10px 0;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" title="C#" />
+        </div>
+        <div style="padding: 10px 0;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C/C++" title="C/C++" />
+        </div>
+        <div style="padding: 10px 0;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" title="Go" />
+        </div>
       </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript" /><br>JavaScript
-        <br><br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" /><br>React
-        <br><br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /><br>HTML5
-        <br><br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /><br>CSS3
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" /><br>Kotlin
+      <td align="center" valign="top">
+        <div style="padding: 10px 0;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
+        </div>
+        <div style="padding: 10px 0;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" title="React" />
+        </div>
+        <div style="padding: 10px 0;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5" />
+        </div>
+        <div style="padding: 10px 0;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3" />
+        </div>
+        <div style="padding: 10px 0;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" title="Kotlin" />
+        </div>
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Artificial_Intelligence-FF4500?style=for-the-badge&logo=openai&logoColor=white" width="40" height="40" alt="AI" /><br>AI
-        <br><br>
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" width="40" height="40" alt="Power BI" /><br>Power BI
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB" /><br>MATLAB
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity" /><br>Unity
+      <td align="center" valign="top">
+        <div style="padding: 10px 0;">
+          <img src="https://img.shields.io/badge/Artificial_Intelligence-FF4500?style=for-the-badge&logo=openai&logoColor=white" width="100" height="40" alt="AI" title="Artificial Intelligence" />
+        </div>
+        <div style="padding: 10px 0;">
+          <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" width="100" height="40" alt="Power BI" title="Power BI" />
+        </div>
+        <div style="padding: 10px 0;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB" title="MATLAB" />
+        </div>
+        <div style="padding: 10px 0;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity" title="Unity" />
+        </div>
       </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino" /><br>Arduino
-        <br><br>
-        <img src="https://img.shields.io/badge/Maker-000000?style=for-the-badge&logo=makerbot&logoColor=white" width="40" height="40" alt="Maker" /><br>Maker
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" alt="Blender" /><br>Blender
-        <br><br>
-        <img src="https://img.shields.io/badge/LTspice-000000?style=for-the-badge&logo=ltspice&logoColor=white" width="40" height="40" alt="LTspice" /><br>LTspice
+      <td align="center" valign="top">
+        <div style="padding: 10px 0;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino" title="Arduino" />
+        </div>
+        <div style="padding: 10px 0;">
+          <img src="https://img.shields.io/badge/Maker-000000?style=for-the-badge&logo=makerbot&logoColor=white" width="100" height="40" alt="Maker" title="Maker" />
+        </div>
+        <div style="padding: 10px 0;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" alt="Blender" title="Blender" />
+        </div>
+        <div style="padding: 10px 0;">
+          <img src="https://img.shields.io/badge/LTspice-000000?style=for-the-badge&logo=ltspice&logoColor=white" width="100" height="40" alt="LTspice" title="LTspice" />
+        </div>
       </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="40" height="40" alt="Docker" /><br>Docker
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud" /><br>GCP
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /><br>Git/GitHub
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /><br>Linux
+      <td align="center" valign="top">
+        <div style="padding: 10px 0;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="40" height="40" alt="Docker" title="Docker" />
+        </div>
+        <div style="padding: 10px 0;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud" title="Google Cloud Platform" />
+        </div>
+        <div style="padding: 10px 0;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git/GitHub" />
+        </div>
+        <div style="padding: 10px 0;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux" />
+        </div>
       </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="SQL" /><br>SQL/PostgreSQL
-        <br><br>
-        <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=cybersecurity&logoColor=white" width="40" height="40" alt="Cybersecurity" /><br>Security
-        <br><br>
-        <img src="https://img.shields.io/badge/Impressão%203D-000000?style=for-the-badge&logo=3d-printing&logoColor=white" width="40" height="40" alt="3D Printing" /><br>3D Printing
+      <td align="center" valign="top">
+        <div style="padding: 10px 0;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="SQL" title="SQL/PostgreSQL" />
+        </div>
+        <div style="padding: 10px 0;">
+          <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=cybersecurity&logoColor=white" width="100" height="40" alt="Cybersecurity" title="Cybersecurity" />
+        </div>
+        <div style="padding: 10px 0;">
+          <img src="https://img.shields.io/badge/Impressão%203D-000000?style=for-the-badge&logo=3d-printing&logoColor=white" width="100" height="40" alt="3D Printing" title="3D Printing" />
+        </div>
       </td>
     </tr>
   </tbody>
