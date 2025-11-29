@@ -222,6 +222,7 @@ I am a **Computer Engineering** student at **PUC-Campinas**, driven by the missi
     </td>
   </tr>
 </table>
+
 ---
 
 ### 💼 Professional Experience
