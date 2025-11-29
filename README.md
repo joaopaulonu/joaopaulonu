@@ -10,23 +10,21 @@ I am a **Computer Engineering** student at **PUC-Campinas**, driven by the missi
 
 ---
 
-
-### 🏆 Achievements & Stats
+### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <br/>
-  <br/>
-
   <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=joaopaulonu&theme=nord&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="João Paulo Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=joaopaulonu&theme=nord&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="João Paulo Stats"/>
   </p>
 
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulonu&layout=compact&langs_count=16&theme=nord&custom_title=Top%20Languages"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulonu&layout=compact&langs_count=16&theme=nord&custom_title=Top%20Languages"/>
 </div>
 
 <br/>
 
-
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaopaulonu&radius=16&theme=nord&area=true&order=5&hide_border=false&custom_title=Activity%20Graph" alt="João Paulo Nunes Andrade Activity Graph">
+</p>
 
 ---
 
@@ -222,7 +220,6 @@ I am a **Computer Engineering** student at **PUC-Campinas**, driven by the missi
     </td>
   </tr>
 </table>
-
 ---
 
 ### 💼 Professional Experience
