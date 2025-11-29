@@ -10,10 +10,10 @@ I am a **Computer Engineering** student at **PUC-Campinas**, driven by the missi
 
 ---
 
+
 ### 🏆 Achievements & Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaopaulonu&theme=radical&no-frame=true&no-bg=false" />
   <br/>
   <br/>
 
@@ -26,9 +26,7 @@ I am a **Computer Engineering** student at **PUC-Campinas**, driven by the missi
 
 <br/>
 
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaopaulonu&radius=16&theme=nord&area=true&order=5&hide_border=false&custom_title=Activity%20Graph" alt="João Paulo Nunes Andrade Activity Graph">
-</p>
+
 
 ---
 
