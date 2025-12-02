@@ -14,11 +14,10 @@ I'm an **Computer Engineering** student at **PUC-Campinas**, driven by the missi
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaopaulonu&theme=nord&hide_border=false&include_all_commits=true&count_private=true&custom_title=João%20Paulo's%20Stats" height="150" alt="João Paulo's GitHub Stats"/>
+  &nbsp;&nbsp;&nbsp;
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulonu&layout=compact&langs_count=16&theme=nord&custom_title=Top%20Languages"/>
   <br/>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaopaulonu&radius=16&theme=nord&area=true&order=5&hide_border=false&custom_title=Activity%20Graph" alt="João Paulo Nunes Andrade Activity Graph">
-  </p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaopaulonu&radius=16&theme=nord&area=true&order=5&hide_border=false&custom_title=Activity%20Graph" alt="João Paulo Nunes Andrade Activity Graph">
 </div>
 
 ---
@@ -26,15 +25,15 @@ I'm an **Computer Engineering** student at **PUC-Campinas**, driven by the missi
 ### 🛠️ Technologies and Tools
 
 <div align="center">
-  <table style="background-color: #44475a; border-collapse: collapse; width: 100%; color: white;">
+  <table style="background-color: #44475a; border-collapse: collapse; width: 90%; color: white;">
     <thead>
       <tr>
-        <th width="16%">💻 Core Languages</th>
-        <th width="16%">🎨 Web and Frameworks</th>
-        <th width="18%">🧠 AI, Data and Simulation</th>
-        <th width="16%">⚙️ Hardware and Maker</th>
-        <th width="16%">☁️ DevOps and Systems</th>
-        <th width="18%">💾 Other Skills</th>
+        <th>💻 Core Languages</th>
+        <th>🎨 Web and Frameworks</th>
+        <th>🧠 AI, Data and Simulation</th>
+        <th>⚙️ Hardware and Maker</th>
+        <th>☁️ DevOps and Systems</th>
+        <th>💾 Other Skills</th>
       </tr>
     </thead>
     <tbody>
@@ -134,7 +133,6 @@ I'm an **Computer Engineering** student at **PUC-Campinas**, driven by the missi
 ---
 
 ### 🚀 Featured Projects
-
 ⚙️ **Hardware, Robotics, and Systems**
 <table>
   <tr>
@@ -197,7 +195,8 @@ I'm an **Computer Engineering** student at **PUC-Campinas**, driven by the missi
     </td>
     <td align="center">
       <a href="https://github.com/joaopaulonu/MesaJa">
-        <img src="https://img.shields.io/badge/MesaJa-3776AB?style=for-the-badge&logo=react&logoColor=white" /> <br/>
+        <img src="https://img.shields.io/badge/MesaJa-3776AB?style=for-the-badge&logo=react&logoColor=white" />
+        <br/>
         🍽️ <strong>MesaJa</strong>
       </a>
       <br/>
@@ -238,13 +237,14 @@ My experience has allowed me to work in various areas, applying technical knowle
 ---
 
 ### ⭐ Certifications and Achievements
-
-🥇 Gold Medal – REDASP (2024)
-🥉 Bronze Medal – Mathematics (2021)
-🥉 Bronze Medal – Mathematics (2020)
-🥉 Bronze Medal – Mathematics (2018)
-🥉 Bronze Medal – Math Expo (2017)
-🥉 Bronze Medal – Portuguese Expo (2017)
+<div align="left">
+  <div>🥇 Gold Medal – REDASP (2024)</div>
+  <div>🥉 Bronze Medal – Mathematics (2021)</div>
+  <div>🥉 Bronze Medal – Mathematics (2020)</div>
+  <div>🥉 Bronze Medal – Mathematics (2018)</div>
+  <div>🥉 Bronze Medal – Math Expo (2017)</div>
+  <div>🥉 Bronze Medal – Portuguese Expo (2017)</div>
+</div>
 
 ---
 
