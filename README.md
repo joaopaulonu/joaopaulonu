@@ -2,37 +2,39 @@
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer Illustration" width="400px" />
 </div>
 
-# 💻🧠 Olá! Sou João Paulo Nunes Andrade 👋
+# 💻🧠 Hello! I'm João Paulo Nunes Andrade 👋
 
-Sou estudante de **Engenharia da Computação** na **PUC-Campinas**, movido pela missão de criar soluções inovadoras que gerem impacto real. Minhas paixões vão desde **programação e IA** até design 3D e a cultura Maker, sempre buscando transformar ideias em projetos que melhorem processos e a vida das pessoas.
+I'm an **Computer Engineering** student at **PUC-Campinas**, driven by the mission to create innovative solutions that generate real impact. My passions range from **programming and AI** to 3D design and the Maker culture, always seeking to transform ideas into projects that improve processes and people's lives.
 
-🚀 **Foco principal:** **Python**, **C#**, **Java**, **Inteligência Artificial**, **Sistemas Embarcados** e **Robótica Maker**.
+🚀 **Main Focus:** **Python**, **C#**, **Java**, **Artificial Intelligence**, **Embedded Systems**, and **Maker Robotics**.
 
 ---
 
-### 📊 Estatísticas e Atividade do GitHub
+### 📊 GitHub Stats and Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaopaulonu&theme=nord&hide_border=false&include_all_commits=true&count_private=true&custom_title=Estatísticas%20de%20João%20Paulo" height="150" alt="Estatísticas de João Paulo"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joaopaulonu&theme=nord&hide_border=false&include_all_commits=true&count_private=true&custom_title=João%20Paulo's%20Stats" height="150" alt="João Paulo's GitHub Stats"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulonu&layout=compact&langs_count=16&theme=nord&custom_title=Top%20Languages"/>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaopaulonu&radius=16&theme=nord&area=true&order=5&hide_border=false&custom_title=Activity%20Graph" alt="João Paulo Nunes Andrade Activity Graph">
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaopaulonu&radius=16&theme=nord&area=true&order=5&hide_border=false&custom_title=Activity%20Graph" alt="João Paulo Nunes Andrade Activity Graph">
+  </p>
 </div>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Technologies and Tools
 
 <div align="center">
   <table style="background-color: #44475a; border-collapse: collapse; width: 100%; color: white;">
     <thead>
       <tr>
-        <th width="16%">💻 Linguagens Principais</th>
-        <th width="16%">🎨 Web e Frameworks</th>
-        <th width="18%">🧠 IA, Dados e Simulação</th>
-        <th width="16%">⚙️ Hardware e Maker</th>
-        <th width="16%">☁️ DevOps e Sistemas</th>
-        <th width="18%">💾 Outras Habilidades</th>
+        <th width="16%">💻 Core Languages</th>
+        <th width="16%">🎨 Web and Frameworks</th>
+        <th width="18%">🧠 AI, Data and Simulation</th>
+        <th width="16%">⚙️ Hardware and Maker</th>
+        <th width="16%">☁️ DevOps and Systems</th>
+        <th width="18%">💾 Other Skills</th>
       </tr>
     </thead>
     <tbody>
@@ -73,7 +75,7 @@ Sou estudante de **Engenharia da Computação** na **PUC-Campinas**, movido pela
         </td>
         <td align="center" valign="top">
           <div style="padding: 10px 0;">
-            <img src="https://img.shields.io/badge/Artificial_Intelligence-FF4500?style=for-the-badge&logo=openai&logoColor=white" width="100" height="40" alt="AI" title="Inteligência Artificial" />
+            <img src="https://img.shields.io/badge/Artificial_Intelligence-FF4500?style=for-the-badge&logo=openai&logoColor=white" width="100" height="40" alt="AI" title="Artificial Intelligence" />
           </div>
           <div style="padding: 10px 0;">
             <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" width="100" height="40" alt="Power BI" title="Power BI" />
@@ -121,7 +123,7 @@ Sou estudante de **Engenharia da Computação** na **PUC-Campinas**, movido pela
             <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=cybersecurity&logoColor=white" width="100" height="40" alt="Cybersecurity" title="Cybersecurity" />
           </div>
           <div style="padding: 10px 0;">
-            <img src="https://img.shields.io/badge/Impressão%203D-000000?style=for-the-badge&logo=3d-printing&logoColor=white" width="100" height="40" alt="3D Printing" title="3D Printing" />
+            <img src="https://img.shields.io/badge/3D%20Printing-000000?style=for-the-badge&logo=3d-printing&logoColor=white" width="100" height="40" alt="3D Printing" title="3D Printing" />
           </div>
         </td>
       </tr>
@@ -131,9 +133,9 @@ Sou estudante de **Engenharia da Computação** na **PUC-Campinas**, movido pela
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Featured Projects
 
-⚙️ **Hardware, Robótica e Sistemas**
+⚙️ **Hardware, Robotics, and Systems**
 <table>
   <tr>
     <td align="center">
@@ -143,21 +145,21 @@ Sou estudante de **Engenharia da Computação** na **PUC-Campinas**, movido pela
         🐕 <strong>Robot-Dog</strong>
       </a>
       <br/>
-      <sub>Projeto de robô quadrúpede educacional de código aberto, ideal para explorar eletrônica e programação em Python.</sub>
+      <sub>Open-source quadruped robot project, ideal for exploring electronics and Python programming.</sub>
     </td>
     <td align="center">
       <a href="https://github.com/joaopaulonu/Integrated-Disaster-Response-System-IDRS-">
         <img src="https://img.shields.io/badge/IDRS-0077B5?style=for-the-badge&logo=java&logoColor=white" />
         <br/>
-        🚨 <strong>Sistema Integrado de Resposta a Desastres</strong>
+        🚨 <strong>Integrated Disaster Response System</strong>
       </a>
       <br/>
-      <sub>Sistema integrado de resposta a desastres desenvolvido para coordenar informações e recursos durante emergências.</sub>
+      <sub>Integrated disaster response system developed to coordinate information and resources during emergencies.</sub>
     </td>
   </tr>
 </table>
 
-🧠 **Inteligência Artificial e Ciência de Dados**
+🧠 **Artificial Intelligence and Data Science**
 <table>
   <tr>
     <td align="center">
@@ -167,21 +169,21 @@ Sou estudante de **Engenharia da Computação** na **PUC-Campinas**, movido pela
         📊 <strong>ProdFinAI</strong>
       </a>
       <br/>
-      <sub>Modelo de IA para análise e previsão de dados em processos financeiros e de produção.</sub>
+      <sub>AI model for analyzing and predicting data in financial and production processes.</sub>
     </td>
     <td align="center">
       <a href="https://github.com/joaopaulonu/Biological-Anthropomorphic-Intersection-with-Robotic-Cinematization">
         <img src="https://img.shields.io/badge/Robotics%20Research-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
         <br/>
-        🔬 <strong>Pesquisa em Cinematização Robótica</strong>
+        🔬 <strong>Robotic Cinematization Research</strong>
       </a>
       <br/>
-      <sub>Estudo sobre a interseção entre biologia, antropomorfismo e robótica cinemáticas.</sub>
+      <sub>Study on the intersection between biology, anthropomorphism, and cinematic robotics.</sub>
     </td>
   </tr>
 </table>
 
-💻 **Software e Web**
+💻 **Software and Web**
 <table>
   <tr>
     <td align="center">
@@ -191,65 +193,66 @@ Sou estudante de **Engenharia da Computação** na **PUC-Campinas**, movido pela
         ✅ <strong>TaskMaster</strong>
       </a>
       <br/>
-      <sub>Aplicativo robusto e simples de gerenciamento de tarefas, demonstrando as melhores práticas de desenvolvimento back-end em C#.</sub>
+      <sub>Robust and simple task management application, demonstrating C# back-end development best practices.</sub>
     </td>
     <td align="center">
       <a href="https://github.com/joaopaulonu/MesaJa">
-        <img src="https://img.shields.io/badge/WEB%20Platform-00BFFF?style=for-the-badge&logo=html5&logoColor=white" /> <br/>
+        <img src="https://img.shields.io/badge/MesaJa-3776AB?style=for-the-badge&logo=react&logoColor=white" /> <br/>
         🍽️ <strong>MesaJa</strong>
       </a>
       <br/>
-      <sub>Plataforma web para reservas de mesas em restaurantes, focada na experiência do usuário e no design da interface.</sub>
+      <sub>Web platform for restaurant table reservations, focused on user experience and interface design.</sub>
     </td>
   </tr>
 </table>
 
-💾 **Baixo Nível e Algoritmos**
+💾 **Low-Level and Algorithms**
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/joaopaulonu/Tic-Tac-Toe-Assembly-x86">
         <img src="https://img.shields.io/badge/Assembly_x86-A81D33?style=for-the-badge&logo=assemblyscript&logoColor=white" />
         <br/>
-        🕹️ <strong>Jogo da Velha (8086)</strong>
+        🕹️ <strong>Tic-Tac-Toe (8086)</strong>
       </a>
       <br/>
-      <sub>Jogo clássico desenvolvido em Assembly x86 puro (DOS) com estratégia híbrida de IA e manipulação direta de memória.</sub>
+      <sub>Classic game developed in pure x86 Assembly (DOS) with hybrid AI strategy and direct memory manipulation.</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-### 💼 Experiência Profissional
+### 💼 Professional Experience
 
-Minha experiência me permitiu trabalhar em diversas áreas, aplicando conhecimento técnico para otimizar processos e projetos.
+My experience has allowed me to work in various areas, applying technical knowledge to optimize processes and projects.
 
 > **Araújo Engenharia Integridade de Equipamentos Industriais**
 >
-> * **Projetista** (setembro/2024 - outubro/2024)
-> * **Assistente de TI** (fevereiro/2024 - outubro/2024)
-> * **Assistente Administrativo** (fevereiro/2024 - outubro/2024)
-> * **Arquivista** (abril/2024 - junho/2024)
-> * **Desenhista Técnico** (fevereiro/2024 - abril/2024)
+> * **Designer** (September/2024 - October/2024)
+> * **IT Assistant** (February/2024 - October/2024)
+> * **Administrative Assistant** (February/2024 - October/2024)
+> * **Archivist** (April/2024 - June/2024)
+> * **Technical Draftsman** (February/2024 - April/2024)
 
 ---
 
-### ⭐ Certificações e Conquistas
+### ⭐ Certifications and Achievements
 
-🥇 Medalha de Ouro – REDASP (2024)
-🥉 Medalha de Bronze – Matemática (2021)
-🥉 Medalha de Bronze – Matemática (2020)
-🥉 Medalha de Bronze – Matemática (2018)
-🥉 Medalha de Bronze – Expo de Matemática (2017)
-🥉 Medalha de Bronze – Expo Portuguesa (2017)
+🥇 Gold Medal – REDASP (2024)
+🥉 Bronze Medal – Mathematics (2021)
+🥉 Bronze Medal – Mathematics (2020)
+🥉 Bronze Medal – Mathematics (2018)
+🥉 Bronze Medal – Math Expo (2017)
+🥉 Bronze Medal – Portuguese Expo (2017)
 
 ---
 
-### 📬 Contate-me
+### 📬 Contact Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nunes-andrade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/jp_nunes.andrade" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:jpnunesandrade26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.alura.com.br/indica-dev/jpnnesandrade26" target="_blank"><img src="https://img.shields.io/badge/Alura-0077B5?style=for-the-badge&logo=alura&logoColor=white"></a>
+  <a href="mailto:jpnunesandrade26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.alura.com.br/indica-dev/jpnnesandrade26" target="_blank"><img src="https://img.shields.io/badge/Alura-0077B5?style=for-the-badge&logo=alura&logoColor=white"></a>
 </div>
