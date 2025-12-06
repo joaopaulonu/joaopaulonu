@@ -25,112 +25,107 @@ I'm an **Computer Engineering** student at **PUC-Campinas**, driven by the missi
 ### 🛠️ Technologies and Tools
 
 <div align="center">
-  <table style="background-color: #44475a; border-collapse: collapse; width: 90%; color: white;">
-    <thead>
-      <tr>
-        <th>💻 Core Languages</th>
-        <th>🎨 Web and Frameworks</th>
-        <th>🧠 AI, Data and Simulation</th>
-        <th>⚙️ Hardware and Maker</th>
-        <th>☁️ DevOps and Systems</th>
-        <th>💾 Other Skills</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" valign="top">
-          <div style="padding: 10px 0;">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />
-          </div>
-          <div style="padding: 10px 0;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java" />
-          </div>
-          <div style="padding: 10px 0;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" title="C#" />
-          </div>
-          <div style="padding: 10px 0;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C/C++" title="C/C++" />
-          </div>
-          <div style="padding: 10px 0;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" title="Go" />
-          </div>
-        </td>
-        <td align="center" valign="top">
-          <div style="padding: 10px 0;">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
-          </div>
-          <div style="padding: 10px 0;">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" title="React" />
-          </div>
-          <div style="padding: 10px 0;">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5" />
-          </div>
-          <div style="padding: 10px 0;">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3" />
-          </div>
-          <div style="padding: 10px 0;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" title="Kotlin" />
-          </div>
-        </td>
-        <td align="center" valign="top">
-          <div style="padding: 10px 0;">
-            <img src="https://img.shields.io/badge/Artificial_Intelligence-FF4500?style=for-the-badge&logo=openai&logoColor=white" width="100" height="40" alt="AI" title="Artificial Intelligence" />
-          </div>
-          <div style="padding: 10px 0;">
-            <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" width="100" height="40" alt="Power BI" title="Power BI" />
-          </div>
-          <div style="padding: 10px 0;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB" title="MATLAB" />
-          </div>
-          <div style="padding: 10px 0;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity" title="Unity" />
-          </div>
-        </td>
-        <td align="center" valign="top">
-          <div style="padding: 10px 0;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino" title="Arduino" />
-          </div>
-          <div style="padding: 10px 0;">
-            <img src="https://img.shields.io/badge/Maker-000000?style=for-the-badge&logo=makerbot&logoColor=white" width="100" height="40" alt="Maker" title="Maker" />
-          </div>
-          <div style="padding: 10px 0;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" alt="Blender" title="Blender" />
-          </div>
-          <div style="padding: 10px 0;">
-            <img src="https://img.shields.io/badge/LTspice-000000?style=for-the-badge&logo=ltspice&logoColor=white" width="100" height="40" alt="LTspice" title="LTspice" />
-          </div>
-        </td>
-        <td align="center" valign="top">
-          <div style="padding: 10px 0;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="40" height="40" alt="Docker" title="Docker" />
-          </div>
-          <div style="padding: 10px 0;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud" title="Google Cloud Platform" />
-          </div>
-          <div style="padding: 10px 0;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git/GitHub" />
-          </div>
-          <div style="padding: 10px 0;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux" />
-          </div>
-        </td>
-        <td align="center" valign="top">
-          <div style="padding: 10px 0;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="SQL" title="SQL/PostgreSQL" />
-          </div>
-          <div style="padding: 10px 0;">
-            <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=cybersecurity&logoColor=white" width="100" height="40" alt="Cybersecurity" title="Cybersecurity" />
-          </div>
-          <div style="padding: 10px 0;">
-            <img src="https://img.shields.io/badge/3D%20Printing-000000?style=for-the-badge&logo=3d-printing&logoColor=white" width="100" height="40" alt="3D Printing" title="3D Printing" />
-          </div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  <table style="background-color: #44475a; border-collapse: collapse; width: 90%; color: white;">
+    <thead>
+      <tr>
+        <th>💻 Core Languages</th>
+        <th>🎨 Web and Frameworks</th>
+        <th>🧠 AI, Data and Simulation</th>
+        <th>⚙️ Hardware and Maker</th>
+        <th>☁️ DevOps and Systems</th>
+        <th>💾 Other Skills</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" valign="top">
+                    <div style="padding: 10px 0;">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />
+          </div>
+          <div style="padding: 10px 0;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" title="C" />
+          </div>
+          <div style="padding: 10px 0;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" title="C++" />
+          </div>
+          <div style="padding: 10px 0;">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
+          </div>
+          <div style="padding: 10px 0;">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" title="HTML" />
+          </div>
+          <div style="padding: 10px 0;">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" title="CSS" />
+          </div>
+          <div style="padding: 10px 0;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Shell" title="Shell" />
+          </div>
+          <div style="padding: 10px 0;">
+            <img src="https://img.shields.io/badge/Assembly-A42721?style=for-the-badge&logo=assemblyscript&logoColor=white" width="100" height="40" alt="Assembly" title="Assembly" />
+          </div>
+        </td>
+        <td align="center" valign="top">
+                  </td>
+        <td align="center" valign="top">
+                    <div style="padding: 10px 0;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB" title="MATLAB" />
+          </div>
+          <div style="padding: 10px 0;">
+            <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" width="100" height="40" alt="Power BI" title="Power BI" />
+          </div>
+          <div style="padding: 10px 0;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity" title="Unity Hub" />
+          </div>
+          <div style="padding: 10px 0;">
+            <img src="https://img.shields.io/badge/Tracker-007ACC?style=for-the-badge&logo=youtube&logoColor=white" width="100" height="40" alt="Tracker" title="Tracker Video Analysis" />
+          </div>
+        </td>
+        <td align="center" valign="top">
+                    <div style="padding: 10px 0;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino IDE" title="Arduino IDE" />
+          </div>
+          <div style="padding: 10px 0;">
+            <img src="https://img.shields.io/badge/Quartus_Prime-000000?style=for-the-badge&logo=intel&logoColor=white" width="100" height="40" alt="Quartus Prime" title="Intel Quartus Prime" />
+          </div>
+          <div style="padding: 10px 0;">
+            <img src="https://img.shields.io/badge/LTspice-000000?style=for-the-badge&logo=ltspice&logoColor=white" width="100" height="40" alt="LTspice" title="LTspice" />
+          </div>
+          <div style="padding: 10px 0;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" width="40" height="40" alt="KiCad" title="KiCad" />
+          </div>
+          <div style="padding: 10px 0;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fusion360/fusion360-original.svg" width="40" height="40" alt="Fusion 360" title="Fusion 360" />
+          </div>
+          <div style="padding: 10px 0;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" alt="Blender" title="Blender" />
+          </div>
+          <div style="padding: 10px 0;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cura/cura-original.svg" width="40" height="40" alt="UltiMaker Cura" title="UltiMaker Cura" />
+          </div>
+          <div style="padding: 10px 0;">
+            <img src="https://img.shields.io/badge/OrcaSlicer-000000?style=for-the-badge&logo=3d-printing&logoColor=white" width="100" height="40" alt="OrcaSlicer" title="OrcaSlicer" />
+          </div>
+        </td>
+        <td align="center" valign="top">
+                    <div style="padding: 10px 0;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="40" height="40" alt="Docker Desktop" title="Docker Desktop" />
+          </div>
+          <div style="padding: 10px 0;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" width="40" height="40" alt="VirtualBox" title="Oracle VirtualBox" />
+          </div>
+          <div style="padding: 10px 0;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode" title="VSCode" />
+          </div>
+          <div style="padding: 10px 0;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeblocks/codeblocks-original.svg" width="40" height="40" alt="CodeBlocks" title="CodeBlocks" />
+          </div>
+        </td>
+        <td align="center" valign="top">
+                  </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
-
----
 
 ### 🚀 Featured Projects
 ⚙️ **Hardware, Robotics, and Systems**
@@ -256,3 +251,5 @@ My experience has allowed me to work in various areas, applying technical knowle
   <a href="mailto:jpnunesandrade26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.alura.com.br/indica-dev/jpnnesandrade26" target="_blank"><img src="https://img.shields.io/badge/Alura-0077B5?style=for-the-badge&logo=alura&logoColor=white"></a>
 </div>
+
+
