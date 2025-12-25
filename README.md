@@ -130,7 +130,7 @@ I'm a **Computer Engineering** student at **PUC-Campinas**, driven by the missio
             <br/><small>Bash</small>
           </div>
           <div style="padding: 8px 0;">
-            <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" width="100" height="40" alt="Assembly" title="Assembly" />
+            <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
             <br/><small>Assembly</small>
           </div>
         </td>
@@ -140,7 +140,7 @@ I'm a **Computer Engineering** student at **PUC-Campinas**, driven by the missio
             <br/><small>MATLAB</small>
           </div>
           <div style="padding: 8px 0;">
-            <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="100" height="40" alt="Power BI" title="Power BI" />
+            <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
             <br/><small>Power BI</small>
           </div>
           <div style="padding: 8px 0;">
@@ -148,7 +148,7 @@ I'm a **Computer Engineering** student at **PUC-Campinas**, driven by the missio
             <br/><small>Unity</small>
           </div>
           <div style="padding: 8px 0;">
-            <img src="https://img.shields.io/badge/Tracker-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="100" height="40" alt="Tracker" title="Tracker" />
+            <img src="https://img.shields.io/badge/Tracker-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Tracker" />
             <br/><small>Tracker</small>
           </div>
         </td>
@@ -158,11 +158,11 @@ I'm a **Computer Engineering** student at **PUC-Campinas**, driven by the missio
             <br/><small>Arduino</small>
           </div>
           <div style="padding: 8px 0;">
-            <img src="https://img.shields.io/badge/Quartus_Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white" width="100" height="40" alt="Quartus Prime" title="Quartus Prime" />
+            <img src="https://img.shields.io/badge/Quartus_Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Quartus Prime" />
             <br/><small>Quartus Prime</small>
           </div>
           <div style="padding: 8px 0;">
-            <img src="https://img.shields.io/badge/LTspice-000000?style=for-the-badge&logo=linear&logoColor=white" width="100" height="40" alt="LTspice" title="LTspice" />
+            <img src="https://img.shields.io/badge/LTspice-000000?style=for-the-badge&logo=linear&logoColor=white" alt="LTspice" />
             <br/><small>LTspice</small>
           </div>
           <div style="padding: 8px 0;">
@@ -182,7 +182,7 @@ I'm a **Computer Engineering** student at **PUC-Campinas**, driven by the missio
             <br/><small>UltiMaker Cura</small>
           </div>
           <div style="padding: 8px 0;">
-            <img src="https://img.shields.io/badge/OrcaSlicer-000000?style=for-the-badge&logo=prusa3d&logoColor=white" width="100" height="40" alt="OrcaSlicer" title="OrcaSlicer" />
+            <img src="https://img.shields.io/badge/OrcaSlicer-000000?style=for-the-badge&logo=prusa3d&logoColor=white" alt="OrcaSlicer" />
             <br/><small>OrcaSlicer</small>
           </div>
         </td>
