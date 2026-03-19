@@ -99,6 +99,7 @@ I'm a **Computer Engineering** student at **PUC-Campinas**, driven by the missio
           <img src="https://cdn.simpleicons.org/kicad/314CB0" width="40" height="40" alt="KiCad" title="KiCad" /><br/><sub>KiCad</sub><br/><br/>
           <img src="https://cdn.simpleicons.org/autodesk/0696D7" width="40" height="40" alt="Fusion 360" title="Fusion 360" /><br/><sub>Fusion 360</sub><br/><br/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40" height="40" alt="Blender" title="Blender" /><br/><sub>Blender</sub><br/><br/>
+          <img src="https://cdn.simpleicons.org/ultimaker/0055FF" width="40" height="40" alt="UltiMaker Cura" title="UltiMaker Cura" /><br/><sub>UltiMaker Cura</sub><br/><br/>
           <img src="https://img.shields.io/badge/OrcaSlicer-000000?style=for-the-badge&logo=prusa3d&logoColor=white" alt="OrcaSlicer" /><br/><sub>OrcaSlicer</sub>
         </td>
         <td align="center" valign="top">
@@ -200,6 +201,61 @@ I'm a **Computer Engineering** student at **PUC-Campinas**, driven by the missio
       </a>
       <br/><br/>
       <sub>Classic game developed in pure x86 Assembly (DOS) with hybrid AI strategy and direct memory manipulation.</sub>
+    </td>
+  </tr>
+</table>
+
+**🔬 Laboratories**
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/joaopaulonu/Computer-Programming-Laboratory-Projects">
+        <img src="https://img.shields.io/badge/C_Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C Programming" />
+        <br/>
+        📁 <strong>Computer Programming Labs</strong>
+      </a>
+      <br/><br/>
+      <sub>Projects developed in C focusing on algorithms, data structures, and memory management.</sub>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/joaopaulonu/Digital-Systems-Quartus-Labs">
+        <img src="https://img.shields.io/badge/Digital_Systems-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Digital Systems" />
+        <br/>
+        ⚡ <strong>Quartus & VHDL Labs</strong>
+      </a>
+      <br/><br/>
+      <sub>Digital logic and FPGA design projects using Quartus Prime Lite and VHDL hardware modeling.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/joaopaulonu/Practical-Assembly-Exercises">
+        <img src="https://img.shields.io/badge/Architecture-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly Exercises" />
+        <br/>
+        📟 <strong>Practical Assembly Labs</strong>
+      </a>
+      <br/><br/>
+      <sub>Low-level programming exercises exploring Computer Systems Architecture at PUC-Campinas.</sub>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/joaopaulonu/Practical-Web-Exercises">
+        <img src="https://img.shields.io/badge/Web_Dev-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Web Exercises" />
+        <br/>
+        🌐 <strong>Practical Web Labs</strong>
+      </a>
+      <br/><br/>
+      <sub>Interactive and responsive interface projects using HTML5, CSS3, and JavaScript.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="100%" colspan="2">
+      <a href="https://github.com/joaopaulonu/Computational-Robotics-MATLAB-">
+        <img src="https://img.shields.io/badge/MATLAB_Robotics-0076a8?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB Robotics" />
+        <br/>
+        🦾 <strong>Computational Robotics (MATLAB)</strong>
+      </a>
+      <br/><br/>
+      <sub>Simulations focusing on kinematics, dynamics, and manipulator control for robotic systems.</sub>
     </td>
   </tr>
 </table>
