@@ -99,7 +99,6 @@ I'm a **Computer Engineering** student at **PUC-Campinas**, driven by the missio
           <img src="https://cdn.simpleicons.org/kicad/314CB0" width="40" height="40" alt="KiCad" title="KiCad" /><br/><sub>KiCad</sub><br/><br/>
           <img src="https://cdn.simpleicons.org/autodesk/0696D7" width="40" height="40" alt="Fusion 360" title="Fusion 360" /><br/><sub>Fusion 360</sub><br/><br/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40" height="40" alt="Blender" title="Blender" /><br/><sub>Blender</sub><br/><br/>
-          <img src="https://cdn.simpleicons.org/ultimaker/0055FF" width="40" height="40" alt="UltiMaker Cura" title="UltiMaker Cura" /><br/><sub>UltiMaker Cura</sub><br/><br/>
           <img src="https://img.shields.io/badge/OrcaSlicer-000000?style=for-the-badge&logo=prusa3d&logoColor=white" alt="OrcaSlicer" /><br/><sub>OrcaSlicer</sub>
         </td>
         <td align="center" valign="top">
