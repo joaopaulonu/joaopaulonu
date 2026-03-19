@@ -4,7 +4,7 @@
 
 # 💻🧠 Hello! I'm João Paulo Nunes Andrade 👋
 
-I'm a **Computer Engineering** student at **PUC-Campinas**, driven by the mission to create innovative solutions that generate real impact. My passions range from **programming and AI** to 3D design and the Maker culture, always seeking to transform ideas into projects that improve processes and people's lives.
+I'm a **Computer Engineering** student at **PUC-Campinas**, driven by the mission to create innovative solutions that generate a real impact. My passions range from **programming and AI** to 3D design and the Maker culture, always seeking to transform ideas into projects that improve processes and people's lives.
 
 ### 🚀 Main Focus
 
@@ -24,15 +24,15 @@ I'm a **Computer Engineering** student at **PUC-Campinas**, driven by the missio
         <br/><strong>AI</strong>
       </td>
       <td align="center" valign="middle">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="50" height="50" alt="PDI" />
-        <br/><strong>PDI & Maker</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="50" height="50" alt="R&D & Maker" />
+        <br/><strong>R&D & Maker</strong>
       </td>
       <td align="center" valign="middle">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/robotframework/robotframework-original.svg" width="50" height="50" alt="Robotics" />
+        <img src="https://cdn.simpleicons.org/ros/22314E" width="50" height="50" alt="Robotics" />
         <br/><strong>Robotics</strong>
       </td>
       <td align="center" valign="middle">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="50" height="50" alt="3D" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="50" height="50" alt="3D Prototyping" />
         <br/><strong>3D Prototyping</strong>
       </td>
     </tr>
@@ -89,25 +89,24 @@ I'm a **Computer Engineering** student at **PUC-Campinas**, driven by the missio
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB" title="MATLAB" /><br/><sub>MATLAB</sub><br/><br/>
           <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /><br/><sub>Power BI</sub><br/><br/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40" alt="Unity" title="Unity" /><br/><sub>Unity</sub><br/><br/>
-          <img src="https://img.shields.io/badge/Tracker-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Tracker" /><br/><sub>Tracker</sub>
+          <img src="https://img.shields.io/badge/Tracker-FF0000?style=for-the-badge&logoColor=white" alt="Tracker" /><br/><sub>Tracker</sub>
         </td>
         <td align="center" valign="top">
           <br/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" height="40" alt="Arduino" title="Arduino" /><br/><sub>Arduino</sub><br/><br/>
           <img src="https://img.shields.io/badge/Quartus_Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Quartus Prime" /><br/><sub>Quartus Prime</sub><br/><br/>
-          <img src="https://img.shields.io/badge/LTspice-000000?style=for-the-badge&logo=linear&logoColor=white" alt="LTspice" /><br/><sub>LTspice</sub><br/><br/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kicad/kicad-original.svg" width="40" height="40" alt="KiCad" title="KiCad" /><br/><sub>KiCad</sub><br/><br/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fusion360/fusion360-original.svg" width="40" height="40" alt="Fusion 360" title="Fusion 360" /><br/><sub>Fusion 360</sub><br/><br/>
+          <img src="https://img.shields.io/badge/LTspice-000000?style=for-the-badge&logoColor=white" alt="LTspice" /><br/><sub>LTspice</sub><br/><br/>
+          <img src="https://cdn.simpleicons.org/kicad/314CB0" width="40" height="40" alt="KiCad" title="KiCad" /><br/><sub>KiCad</sub><br/><br/>
+          <img src="https://cdn.simpleicons.org/autodesk/0696D7" width="40" height="40" alt="Fusion 360" title="Fusion 360" /><br/><sub>Fusion 360</sub><br/><br/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40" height="40" alt="Blender" title="Blender" /><br/><sub>Blender</sub><br/><br/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cura/cura-original.svg" width="40" height="40" alt="UltiMaker Cura" title="UltiMaker Cura" /><br/><sub>UltiMaker Cura</sub><br/><br/>
           <img src="https://img.shields.io/badge/OrcaSlicer-000000?style=for-the-badge&logo=prusa3d&logoColor=white" alt="OrcaSlicer" /><br/><sub>OrcaSlicer</sub>
         </td>
         <td align="center" valign="top">
           <br/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker" /><br/><sub>Docker</sub><br/><br/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/virtualbox/virtualbox-original.svg" width="40" height="40" alt="VirtualBox" title="VirtualBox" /><br/><sub>VirtualBox</sub><br/><br/>
+          <img src="https://cdn.simpleicons.org/virtualbox/183A61" width="40" height="40" alt="VirtualBox" title="VirtualBox" /><br/><sub>VirtualBox</sub><br/><br/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="VS Code" /><br/><sub>VS Code</sub><br/><br/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeblocks/codeblocks-original.svg" width="40" height="40" alt="CodeBlocks" title="CodeBlocks" /><br/><sub>CodeBlocks</sub>
+          <img src="https://img.shields.io/badge/CodeBlocks-323234?style=for-the-badge&logo=cplusplus&logoColor=white" alt="CodeBlocks" /><br/><sub>CodeBlocks</sub>
         </td>
       </tr>
     </tbody>
@@ -209,15 +208,15 @@ I'm a **Computer Engineering** student at **PUC-Campinas**, driven by the missio
 
 ### 💼 Professional Experience
 
-My experience has allowed me to work in various areas, applying technical knowledge to optimize processes and projects.
+My experience has allowed me to work across various areas, applying technical knowledge to optimize processes and projects.
 
-> **Araújo Engenharia Integridade de Equipamentos Industriais**
+> **Araújo Engenharia - Integridade de Equipamentos Industriais**
 >
-> * **Designer** (September/2024 - October/2024)
+> * **Graphic Designer** (September/2024 - October/2024)
 > * **IT Assistant** (February/2024 - October/2024)
 > * **Administrative Assistant** (February/2024 - October/2024)
 > * **Archivist** (April/2024 - June/2024)
-> * **Technical Draftsman** (February/2024 - April/2024)
+> * **Technical Draftsperson** (February/2024 - April/2024)
 
 ---
 
@@ -228,7 +227,7 @@ My experience has allowed me to work in various areas, applying technical knowle
   <div>🥉 Bronze Medal – Mathematics (2020)</div>
   <div>🥉 Bronze Medal – Mathematics (2018)</div>
   <div>🥉 Bronze Medal – Math Expo (2017)</div>
-  <div>🥉 Bronze Medal – Portuguese Expo (2017)</div>
+  <div>🥉 Bronze Medal – Portuguese Language Expo (2017)</div>
 </div>
 
 ---
