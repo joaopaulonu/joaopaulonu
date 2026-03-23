@@ -247,7 +247,7 @@ I'm a **Computer Engineering** student at **PUC-Campinas**, driven by the missio
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="100%" colspan="2">
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/joaopaulonu/Computational-Robotics-MATLAB-">
         <img src="https://img.shields.io/badge/MATLAB_Robotics-0076a8?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB Robotics" />
         <br/>
@@ -255,6 +255,15 @@ I'm a **Computer Engineering** student at **PUC-Campinas**, driven by the missio
       </a>
       <br/><br/>
       <sub>Simulations focusing on kinematics, dynamics, and manipulator control for robotic systems.</sub>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/joaopaulonu/Embedded-Electronics-Laboratory">
+        <img src="https://img.shields.io/badge/Electronics-000000?style=for-the-badge&logo=circuitverse&logoColor=white" alt="Embedded Electronics" />
+        <br/>
+        🔌 <strong>Embedded Electronics Lab</strong>
+      </a>
+      <br/><br/>
+      <sub>Repository featuring LTspice simulations of semiconductors, power electronics (SCR/TRIAC), and Op-Amps.</sub>
     </td>
   </tr>
 </table>
