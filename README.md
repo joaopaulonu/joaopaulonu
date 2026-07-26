@@ -32,7 +32,7 @@ I'm a **Computer Engineering** student at **PUC-Campinas**, driven by the missio
         <br/><strong>Robotics</strong>
       </td>
       <td align="center" valign="middle">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="50" height="50" alt="3D Prototyping" />
+        <img src="https://img.icons8.com/fluency/96/3d-printer.png" width="50" height="50" alt="3D Prototyping" />
         <br/><strong>3D Prototyping</strong>
       </td>
     </tr>
@@ -82,7 +82,7 @@ I'm a **Computer Engineering** student at **PUC-Campinas**, driven by the missio
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" title="HTML" /><br/><sub>HTML</sub><br/><br/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" title="CSS" /><br/><sub>CSS</sub><br/><br/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" title="Bash" /><br/><sub>Bash</sub><br/><br/>
-          <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" /><br/><sub>Assembly</sub>
+          <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=cpu&logoColor=white" alt="Assembly" /><br/><sub>Assembly</sub>
         </td>
         <td align="center" valign="top">
           <br/>
@@ -194,7 +194,7 @@ I'm a **Computer Engineering** student at **PUC-Campinas**, driven by the missio
   <tr>
     <td align="center" valign="top" width="100%">
       <a href="https://github.com/joaopaulonu/Tic-Tac-Toe-Assembly-x86">
-        <img src="https://img.shields.io/badge/Assembly_x86-A81D33?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Tic-Tac-Toe" />
+        <img src="https://img.shields.io/badge/Assembly_x86-A81D33?style=for-the-badge&logo=cpu&logoColor=white" alt="Tic-Tac-Toe" />
         <br/>
         🕹️ <strong>Tic-Tac-Toe (8086)</strong>
       </a>
@@ -229,7 +229,7 @@ I'm a **Computer Engineering** student at **PUC-Campinas**, driven by the missio
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/joaopaulonu/Practical-Assembly-Exercises">
-        <img src="https://img.shields.io/badge/Architecture-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly Exercises" />
+        <img src="https://img.shields.io/badge/Architecture-6E4C13?style=for-the-badge&logo=cpu&logoColor=white" alt="Assembly Exercises" />
         <br/>
         📟 <strong>Practical Assembly Labs</strong>
       </a>
