@@ -66,7 +66,7 @@ I'm a **Computer Engineering** student at **PUC-Campinas**, driven by the missio
     <thead>
       <tr>
         <th align="center">💻 Core Languages</th>
-        <th align="center">🧠 AI, Data and Simulation</th>
+        <th align="center">🧠 AI, Data & Productivity</th>
         <th align="center">⚙️ Hardware and Maker</th>
         <th align="center">☁️ DevOps and Systems</th>
       </tr>
@@ -75,38 +75,42 @@ I'm a **Computer Engineering** student at **PUC-Campinas**, driven by the missio
       <tr>
         <td align="center" valign="top">
           <br/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" /><br/><sub>Python</sub><br/><br/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C" title="C" /><br/><sub>C</sub><br/><br/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" title="C++" /><br/><sub>C++</sub><br/><br/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" /><br/><sub>JavaScript</sub><br/><br/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" title="HTML" /><br/><sub>HTML</sub><br/><br/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" title="CSS" /><br/><sub>CSS</sub><br/><br/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" title="Bash" /><br/><sub>Bash</sub><br/><br/>
-          <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=cpu&logoColor=white" alt="Assembly" /><br/><sub>Assembly</sub>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" /><br/><br/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C" title="C" /><br/><br/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" title="C++" /><br/><br/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" /><br/><br/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" title="HTML" /><br/><br/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" title="CSS" /><br/><br/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" title="Bash" /><br/><br/>
+          <img src="https://img.icons8.com/color/48/cpu.png" width="40" height="40" alt="Assembly" title="Assembly" />
         </td>
         <td align="center" valign="top">
           <br/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB" title="MATLAB" /><br/><sub>MATLAB</sub><br/><br/>
-          <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /><br/><sub>Power BI</sub><br/><br/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40" alt="Unity" title="Unity" /><br/><sub>Unity</sub><br/><br/>
-          <img src="https://img.shields.io/badge/Tracker-FF0000?style=for-the-badge&logoColor=white" alt="Tracker" /><br/><sub>Tracker</sub>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB" title="MATLAB" /><br/><br/>
+          <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="40" height="40" alt="Power BI" title="Power BI" /><br/><br/>
+          <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="40" height="40" alt="Excel" title="Microsoft Excel" /><br/><br/>
+          <img src="https://cdn.simpleicons.org/googlesheets/34A853" width="40" height="40" alt="Google Sheets" title="Google Sheets" /><br/><br/>
+          <img src="https://cdn.simpleicons.org/microsoftword/1B519C" width="40" height="40" alt="Word" title="Microsoft Word" /><br/><br/>
+          <img src="https://cdn.simpleicons.org/googledocs/4285F4" width="40" height="40" alt="Google Docs" title="Google Docs" /><br/><br/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40" alt="Unity" title="Unity" /><br/><br/>
+          <img src="https://img.icons8.com/fluency/48/target.png" width="40" height="40" alt="Tracker" title="Tracker" />
         </td>
         <td align="center" valign="top">
           <br/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" height="40" alt="Arduino" title="Arduino" /><br/><sub>Arduino</sub><br/><br/>
-          <img src="https://img.shields.io/badge/Quartus_Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Quartus Prime" /><br/><sub>Quartus Prime</sub><br/><br/>
-          <img src="https://img.shields.io/badge/LTspice-000000?style=for-the-badge&logoColor=white" alt="LTspice" /><br/><sub>LTspice</sub><br/><br/>
-          <img src="https://cdn.simpleicons.org/kicad/314CB0" width="40" height="40" alt="KiCad" title="KiCad" /><br/><sub>KiCad</sub><br/><br/>
-          <img src="https://cdn.simpleicons.org/autodesk/0696D7" width="40" height="40" alt="Fusion 360" title="Fusion 360" /><br/><sub>Fusion 360</sub><br/><br/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40" height="40" alt="Blender" title="Blender" /><br/><sub>Blender</sub><br/><br/>
-          <img src="https://img.shields.io/badge/OrcaSlicer-000000?style=for-the-badge&logo=prusa3d&logoColor=white" alt="OrcaSlicer" /><br/><sub>OrcaSlicer</sub>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" height="40" alt="Arduino" title="Arduino" /><br/><br/>
+          <img src="https://cdn.simpleicons.org/intel/0071C5" width="40" height="40" alt="Quartus Prime" title="Quartus Prime" /><br/><br/>
+          <img src="https://img.icons8.com/color/48/circuit.png" width="40" height="40" alt="LTspice" title="LTspice" /><br/><br/>
+          <img src="https://cdn.simpleicons.org/kicad/314CB0" width="40" height="40" alt="KiCad" title="KiCad" /><br/><br/>
+          <img src="https://cdn.simpleicons.org/autodesk/0696D7" width="40" height="40" alt="Fusion 360" title="Fusion 360" /><br/><br/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40" height="40" alt="Blender" title="Blender" /><br/><br/>
+          <img src="https://cdn.simpleicons.org/prusa3d/000000" width="40" height="40" alt="OrcaSlicer" title="OrcaSlicer" />
         </td>
         <td align="center" valign="top">
           <br/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker" /><br/><sub>Docker</sub><br/><br/>
-          <img src="https://cdn.simpleicons.org/virtualbox/183A61" width="40" height="40" alt="VirtualBox" title="VirtualBox" /><br/><sub>VirtualBox</sub><br/><br/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="VS Code" /><br/><sub>VS Code</sub><br/><br/>
-          <img src="https://img.shields.io/badge/CodeBlocks-323234?style=for-the-badge&logo=cplusplus&logoColor=white" alt="CodeBlocks" /><br/><sub>CodeBlocks</sub>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker" /><br/><br/>
+          <img src="https://cdn.simpleicons.org/virtualbox/183A61" width="40" height="40" alt="VirtualBox" title="VirtualBox" /><br/><br/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="VS Code" /><br/><br/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="CodeBlocks" title="CodeBlocks" />
         </td>
       </tr>
     </tbody>
